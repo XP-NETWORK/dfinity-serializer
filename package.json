@@ -1,0 +1,10 @@
+{
+  "name": "dfinity-serializer",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "author": "imsk17",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.3.2"
+  }
+}
